@@ -1,0 +1,6 @@
+/home/ttanaya/ece650-a4-tanaya5/build/CMakeFiles/ece650-a4.dir
+/home/ttanaya/ece650-a4-tanaya5/build/minisat/CMakeFiles/minisat-lib-shared.dir
+/home/ttanaya/ece650-a4-tanaya5/build/minisat/CMakeFiles/minisat-lib-static.dir
+/home/ttanaya/ece650-a4-tanaya5/build/minisat/CMakeFiles/minisat_core.dir
+/home/ttanaya/ece650-a4-tanaya5/build/minisat/CMakeFiles/minisat_simp.dir
+/home/ttanaya/ece650-a4-tanaya5/build/CMakeFiles/test.dir
