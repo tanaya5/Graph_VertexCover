@@ -1,0 +1,4 @@
+/home/ttanaya/ece650-a3-tanaya5/build/CMakeFiles/ece650-a2.dir
+/home/ttanaya/ece650-a3-tanaya5/build/CMakeFiles/ece650-a3.dir
+/home/ttanaya/ece650-a3-tanaya5/build/CMakeFiles/rgen.dir
+/home/ttanaya/ece650-a3-tanaya5/build/CMakeFiles/tests.dir

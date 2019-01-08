@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ttanaya/ece650-a3-tanaya5/rgen.cpp
+unistd.h
+-
+iostream
+-
+vector
+-
+fstream
+-
+string
+-
+

@@ -1,0 +1,4 @@
+/home/ttanaya/ece650-a3-tanaya5/build/run/bin/ece650-a1.py
+/home/ttanaya/ece650-a3-tanaya5/build/run/bin/rgen
+/home/ttanaya/ece650-a3-tanaya5/build/run/bin/ece650-a2
+/home/ttanaya/ece650-a3-tanaya5/build/run/bin/ece650-a3
